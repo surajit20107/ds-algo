@@ -1,7 +1,8 @@
 // Problem: https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
 
 // Time: O(n^2), Space: O(1)
-function segregate0and1(arr) {
+// Brute Force
+function segreGate0and1(arr) {
     for (let i = 0; i < arr.length; i++) {
         for (let j = arr.length - 1; j > i; j--) {
             if (arr[i] === 1) {
@@ -12,6 +13,7 @@ function segregate0and1(arr) {
 }
 
 // Time: O(n), Space: O(1)
+// Optimum
 function segregate0and1(arr) {
     let left = 0;
     let right = arr.length - 1;
