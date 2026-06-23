@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/surajit20107/ds-algo/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/surajit20107/ds-algo/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
