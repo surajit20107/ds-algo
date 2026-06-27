@@ -30,6 +30,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/surajit20107/ds-algo/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajit20107/ds-algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/surajit20107/ds-algo/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +79,8 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surajit20107/ds-algo/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
