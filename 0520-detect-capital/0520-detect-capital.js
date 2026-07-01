@@ -5,7 +5,7 @@
 var detectCapitalUse = function(word) {
     let count = 0;
     const n = word.length;
-    for (let i=0;i < n; i++) {
+    for (let i = 0; i < n; i++) {
         if (word.charCodeAt(i) <= 90) {
             count++;
         }
