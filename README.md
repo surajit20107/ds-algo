@@ -59,6 +59,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajit20107/ds-algo/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/surajit20107/ds-algo/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
