@@ -13,6 +13,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0016-3sum-closest](https://github.com/surajit20107/ds-algo/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/surajit20107/ds-algo/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/surajit20107/ds-algo/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/surajit20107/ds-algo/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -46,6 +47,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0016-3sum-closest](https://github.com/surajit20107/ds-algo/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/surajit20107/ds-algo/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/surajit20107/ds-algo/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/surajit20107/ds-algo/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -77,6 +79,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surajit20107/ds-algo/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,4 +95,8 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
