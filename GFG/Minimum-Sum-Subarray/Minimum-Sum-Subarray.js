@@ -5,7 +5,6 @@
 */
 
 class Solution {
-	// Function to find the subarray with the smallest sum.
 	smallestSumSubarray(A, N) {
 		// your code here
 		let res = Infinity;
