@@ -1,5 +1,3 @@
-// Problem https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1
-
 /**
 * @param {number[]} A
 * @param {number} N
