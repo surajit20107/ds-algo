@@ -1,5 +1,3 @@
-// Problem: https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
-
 // Time: O(n^2), Space: O(1)
 // Brute Force
 function segreGate0and1(arr) {
