@@ -1,8 +1,3 @@
-/**
- * gfg - https://www.geeksforgeeks.org/problems/count-the-triplets4615/1
- * 
- * Time O(n²) | Space O(n)
- */
 class Solution {
     countTriplet(arr) {
         arr.sort((a, b) => a - b);
