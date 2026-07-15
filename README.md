@@ -19,6 +19,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0904-fruit-into-baskets](https://github.com/surajit20107/ds-algo/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/surajit20107/ds-algo/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/surajit20107/ds-algo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +122,5 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0053-maximum-subarray](https://github.com/surajit20107/ds-algo/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/surajit20107/ds-algo/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/surajit20107/ds-algo/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/surajit20107/ds-algo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
