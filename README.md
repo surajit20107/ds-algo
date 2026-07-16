@@ -46,6 +46,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0202-happy-number](https://github.com/surajit20107/ds-algo/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/surajit20107/ds-algo/tree/master/0633-sum-of-square-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/surajit20107/ds-algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +127,8 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0152-maximum-product-subarray](https://github.com/surajit20107/ds-algo/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/surajit20107/ds-algo/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/surajit20107/ds-algo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/surajit20107/ds-algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
