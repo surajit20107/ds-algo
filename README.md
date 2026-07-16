@@ -45,6 +45,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0002-add-two-numbers](https://github.com/surajit20107/ds-algo/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/surajit20107/ds-algo/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/surajit20107/ds-algo/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0202-happy-number](https://github.com/surajit20107/ds-algo/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/surajit20107/ds-algo/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/surajit20107/ds-algo/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/surajit20107/ds-algo/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -93,6 +95,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surajit20107/ds-algo/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/surajit20107/ds-algo/tree/master/0633-sum-of-square-numbers) |
 ## Sliding Window
 |  |
 | ------- |
