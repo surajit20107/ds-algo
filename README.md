@@ -22,6 +22,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/surajit20107/ds-algo/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/surajit20107/ds-algo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surajit20107/ds-algo/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/surajit20107/ds-algo/tree/master/0633-sum-of-square-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surajit20107/ds-algo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surajit20107/ds-algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -139,6 +141,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surajit20107/ds-algo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surajit20107/ds-algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
