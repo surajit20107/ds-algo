@@ -19,6 +19,6 @@ var pivotIndex = function(nums) {
     for (let i = 0; i < nums.length; i++) {
         if (prefix[i] === suffix[i]) return i;
     }
-    
+
     return -1;
 };
