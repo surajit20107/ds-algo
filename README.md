@@ -19,6 +19,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
 | [0605-can-place-flowers](https://github.com/surajit20107/ds-algo/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/surajit20107/ds-algo/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/surajit20107/ds-algo/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/surajit20107/ds-algo/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
@@ -119,6 +120,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surajit20107/ds-algo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/surajit20107/ds-algo/tree/master/0724-find-pivot-index) |
 ## Simulation
 |  |
 | ------- |
