@@ -18,6 +18,6 @@ func pivotIndex(nums []int) int {
             return i
         }
     }
-
+    
     return -1
 }
