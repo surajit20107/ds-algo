@@ -18,6 +18,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/surajit20107/ds-algo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/surajit20107/ds-algo/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/surajit20107/ds-algo/tree/master/0724-find-pivot-index) |
@@ -39,6 +40,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0242-valid-anagram](https://github.com/surajit20107/ds-algo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajit20107/ds-algo/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/surajit20107/ds-algo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/surajit20107/ds-algo/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/surajit20107/ds-algo/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -127,6 +129,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/surajit20107/ds-algo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/surajit20107/ds-algo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/surajit20107/ds-algo/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/surajit20107/ds-algo/tree/master/0974-subarray-sums-divisible-by-k) |
