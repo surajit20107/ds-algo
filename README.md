@@ -23,6 +23,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0724-find-pivot-index](https://github.com/surajit20107/ds-algo/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/surajit20107/ds-algo/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/surajit20107/ds-algo/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/surajit20107/ds-algo/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/surajit20107/ds-algo/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/surajit20107/ds-algo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -40,6 +41,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0424-longest-repeating-character-replacement](https://github.com/surajit20107/ds-algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/surajit20107/ds-algo/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/surajit20107/ds-algo/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +129,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/surajit20107/ds-algo/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/surajit20107/ds-algo/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
