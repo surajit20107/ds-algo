@@ -18,5 +18,6 @@ var subarraysDivByK = function (nums, k) {
         }
         map.set(rem, (map.get(rem) || 0) + 1);
     }
+    
     return res;
 };
