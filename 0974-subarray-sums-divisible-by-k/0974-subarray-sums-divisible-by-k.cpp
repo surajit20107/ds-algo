@@ -13,6 +13,7 @@ public:
             res = res + mp[rem];
             mp[rem]++;
         }
+        
         return res;
     }
 };
