@@ -20,7 +20,7 @@ public:
                 end1 = max(end1, end2);
             }
         }
-
+        
         ans.push_back({start1, end1});
         return ans;
     }
