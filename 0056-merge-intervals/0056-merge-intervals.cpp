@@ -10,7 +10,7 @@ public:
         for (int i = 1; i < intervals.size(); i++) {
             int start2 = intervals[i][0];
             int end2 = intervals[i][1];
-
+            
             if (end1 < start2) {
                 ans.push_back({start1, end1});
                 start1 = start2;
@@ -20,7 +20,7 @@ public:
                 end1 = max(end1, end2);
             }
         }
-        
+
         ans.push_back({start1, end1});
         return ans;
     }
