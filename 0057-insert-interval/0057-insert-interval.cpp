@@ -10,6 +10,9 @@ public:
             }
             ans.push_back(intervals[i]);
         }
+
+        // If all intervals are processed and newInterval hasn't been inserted,
+        // it belongs at the end, so append it.
         if (!isMerged) {
             ans.push_back(newInterval);
         }
@@ -26,6 +29,7 @@ public:
         for (int i = 1; i < ans.size(); i++) {
             int start2 = ans[i][0];
             int end2 = ans[i][1];
+
             if (end1 < start2) {
                 res.push_back({start1, end1});
                 start1 = start2;
@@ -35,6 +39,7 @@ public:
                 end1 = max(end1, end2);
             }
         }
+
         res.push_back({start1, end1});
         return res;
     }
