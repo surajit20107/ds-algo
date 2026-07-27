@@ -2,6 +2,7 @@ func merge(intervals [][]int) [][]int {
     sort.Slice(intervals, func(i, j int) bool {
         return intervals[i][0] < intervals[j][0]
     })
+
     ans := [][]int{}
     start1 := intervals[0][0]
     end1 := intervals[0][1]
@@ -19,6 +20,7 @@ func merge(intervals [][]int) [][]int {
             end1 = max(end1, end2)
         }
     }
+    
     ans = append(ans, []int{start1, end1})
     return ans
 }
