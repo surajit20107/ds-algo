@@ -28,6 +28,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0918-maximum-sum-circular-subarray](https://github.com/surajit20107/ds-algo/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/surajit20107/ds-algo/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/surajit20107/ds-algo/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/surajit20107/ds-algo/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/surajit20107/ds-algo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajit20107/ds-algo/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -84,6 +85,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0633-sum-of-square-numbers](https://github.com/surajit20107/ds-algo/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/surajit20107/ds-algo/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/surajit20107/ds-algo/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +177,8 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/surajit20107/ds-algo/tree/master/0605-can-place-flowers) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/surajit20107/ds-algo/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
