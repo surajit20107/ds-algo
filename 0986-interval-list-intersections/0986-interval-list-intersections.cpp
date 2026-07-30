@@ -1,6 +1,7 @@
 class Solution {
 public:
-    vector<vector<int>> intervalIntersection(vector<vector<int>>& firstList, vector<vector<int>>& secondList) {
+    vector<vector<int>> intervalIntersection(vector<vector<int>>& firstList,
+                                             vector<vector<int>>& secondList) {
         int i = 0;
         int j = 0;
         vector<vector<int>> res;
