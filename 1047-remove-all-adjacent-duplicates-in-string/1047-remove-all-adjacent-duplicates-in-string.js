@@ -10,5 +10,6 @@ var removeDuplicates = function(s) {
     if (top === s[i]) stack.pop();
     else stack.push(s[i]);
   }
+  
   return stack.join("");
 };
