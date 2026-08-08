@@ -3,20 +3,19 @@
  * @return {boolean}
  */
 var isValid = function (s) {
-    const stack = []; // Stack for opening brackets
-    const hash = { ")": "(", "]": "[", "}": "{" }; // Matching pairs
+    const stack = [];
+    const hash = { ")": "(", "]": "[", "}": "{" };
 
     for (const char of s) {
         if (char in hash) {
-            // Check if stack is non-empty and matches the top element
             if (stack.length && stack[stack.length - 1] === hash[char]) {
-                stack.pop(); // Remove the matching opening bracket
+                stack.pop();
             } else {
-                return false; // Invalid if no match
+                return false;
             }
         } else {
-            stack.push(char); // Push opening bracket
+            stack.push(char);
         }
     }
-    return stack.length === 0; // Valid if stack is empty
+    return stack.length === 0;
 };
