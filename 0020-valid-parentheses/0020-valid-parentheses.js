@@ -2,20 +2,22 @@
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function (s) {
+var isValid = function(s) {
     const stack = [];
-    const hash = { ")": "(", "]": "[", "}": "{" };
+    const hash = {
+        ")": "(",
+        "}": "{",
+        "]": "[",
+    }
 
-    for (const char of s) {
-        if (char in hash) {
-            if (stack.length && stack[stack.length - 1] === hash[char]) {
-                stack.pop();
-            } else {
-                return false;
-            }
+    for (let char of s) {
+        if (hash[char]) {
+            if (stack.length === 0) return false;
+            if (stack.pop() !== hash[char]) return false;
         } else {
             stack.push(char);
         }
     }
+
     return stack.length === 0;
 };
