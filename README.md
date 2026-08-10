@@ -20,6 +20,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/surajit20107/ds-algo/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/surajit20107/ds-algo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/surajit20107/ds-algo/tree/master/0605-can-place-flowers) |
@@ -112,6 +113,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/surajit20107/ds-algo/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/surajit20107/ds-algo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -187,4 +189,8 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/surajit20107/ds-algo/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
