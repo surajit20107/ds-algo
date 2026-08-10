@@ -16,6 +16,7 @@ var dailyTemperatures = function(temperatures) {
         } else {
             res[i] = stack[stack.length - 1] - i
         }
+        
         stack.push(i)
     }
 
