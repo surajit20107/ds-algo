@@ -18,6 +18,7 @@ public:
 
             st.push(nums[index]);
         }
+        
         return res;
     }
 };
