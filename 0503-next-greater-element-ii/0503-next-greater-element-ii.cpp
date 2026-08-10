@@ -15,10 +15,9 @@ public:
             if (i < n) {
                 res[index] = st.empty() ? -1 : st.top();
             }
-
+            
             st.push(nums[index]);
         }
-
         return res;
     }
 };
