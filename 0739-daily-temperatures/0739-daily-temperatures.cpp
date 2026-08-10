@@ -15,7 +15,7 @@ public:
             } else {
                 res[i] = st.top() - i;
             }
-
+            
             st.push(i);
         }
 
