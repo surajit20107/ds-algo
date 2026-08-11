@@ -11,5 +11,6 @@ var removeStars = function(s) {
             stack.push(s[i]);
         }
     }
+    
     return stack.join("");
 };
