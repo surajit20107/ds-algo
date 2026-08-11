@@ -110,6 +110,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0424-longest-repeating-character-replacement](https://github.com/surajit20107/ds-algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/surajit20107/ds-algo/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/surajit20107/ds-algo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/surajit20107/ds-algo/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0503-next-greater-element-ii](https://github.com/surajit20107/ds-algo/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/surajit20107/ds-algo/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/surajit20107/ds-algo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/surajit20107/ds-algo/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -148,6 +150,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/surajit20107/ds-algo/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
