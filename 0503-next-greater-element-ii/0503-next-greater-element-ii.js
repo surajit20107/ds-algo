@@ -3,23 +3,25 @@
  * @return {number[]}
  */
 var nextGreaterElements = function(nums) {
-    const n = nums.length;
+    const res = [];
     const stack = [];
-    const res = new Array(n).fill(-1);
-
-    for (let i = 2 * n - 1; i >= 0; i--) {
-        const index = i % n;
-        
-        while (stack.length > 0 && nums[index] >= stack[stack.length - 1]) {
+    // Pushing the elements in stack to simulate the circular array
+    // So after last element my array can see the first element for once using stack
+    for (let i = nums.length - 2; i >= 0; i--) {
+        stack.push(nums[i]);
+    }
+    // finding greater elements using nums and stack
+    for (let i = nums.length - 1; i >= 0; i--) {
+        while (nums.length > 0 && stack[stack.length - 1] <= nums[i]) {
             stack.pop();
         }
 
-        if (i < n) {
-            res[index] = stack.length === 0 ? -1 : stack[stack.length - 1];
+        if (stack.length === 0) {
+            res.push(-1);
+        } else {
+            res.push(stack[stack.length - 1]);
         }
-
-        stack.push(nums[index]);
+        stack.push(nums[i]);
     }
-
-    return res;
+    return res.reverse();
 };
