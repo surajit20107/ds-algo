@@ -33,6 +33,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0986-interval-list-intersections](https://github.com/surajit20107/ds-algo/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/surajit20107/ds-algo/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/surajit20107/ds-algo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/surajit20107/ds-algo/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajit20107/ds-algo/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/surajit20107/ds-algo/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/surajit20107/ds-algo/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
