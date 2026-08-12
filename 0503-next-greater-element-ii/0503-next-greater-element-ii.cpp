@@ -21,6 +21,7 @@ public:
             }
             st.push_back(nums[i]);
         }
+        
         reverse(res.begin(), res.end());
         return res;
     }
