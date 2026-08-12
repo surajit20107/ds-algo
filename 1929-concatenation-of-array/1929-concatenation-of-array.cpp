@@ -7,6 +7,7 @@ public:
             res[i] = nums[i];
             res[i + nums.size()] = nums[i];
         }
+        
         return res;
     }
 };
