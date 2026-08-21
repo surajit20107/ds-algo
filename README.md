@@ -45,6 +45,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0202-happy-number](https://github.com/surajit20107/ds-algo/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/surajit20107/ds-algo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/surajit20107/ds-algo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajit20107/ds-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajit20107/ds-algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/surajit20107/ds-algo/tree/master/0525-contiguous-array) |
@@ -108,6 +109,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/surajit20107/ds-algo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surajit20107/ds-algo/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/surajit20107/ds-algo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajit20107/ds-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajit20107/ds-algo/tree/master/0424-longest-repeating-character-replacement) |
@@ -207,5 +209,6 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/surajit20107/ds-algo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surajit20107/ds-algo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
