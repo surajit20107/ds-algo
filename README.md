@@ -45,6 +45,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0202-happy-number](https://github.com/surajit20107/ds-algo/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/surajit20107/ds-algo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/surajit20107/ds-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajit20107/ds-algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/surajit20107/ds-algo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
@@ -107,6 +108,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/surajit20107/ds-algo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surajit20107/ds-algo/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/surajit20107/ds-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajit20107/ds-algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/surajit20107/ds-algo/tree/master/0520-detect-capital) |
@@ -179,6 +181,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/surajit20107/ds-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/surajit20107/ds-algo/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -201,4 +204,8 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/surajit20107/ds-algo/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/surajit20107/ds-algo/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/surajit20107/ds-algo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
