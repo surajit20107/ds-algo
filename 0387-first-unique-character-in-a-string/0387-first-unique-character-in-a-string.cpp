@@ -11,6 +11,7 @@ public:
         for (int i = 0; i < s.length(); i++) {
             if (freq[s[i] - aCode] == 1) return i;
         }
+        
         return -1;
     }
 };
