@@ -9,7 +9,7 @@ public:
 
         for (char c : ransomNote) {
             int index = c - 'a';
-            if (arr[index]) {
+            if (arr[index] > 0) {
                 arr[index]--;
             } else {
                 return false;
