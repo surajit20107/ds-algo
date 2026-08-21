@@ -14,6 +14,7 @@ var firstUniqChar = function(s) {
         if (freq[s.charCodeAt(i) - aCode] === 1) {
             return i;
         }
-    } 
+    }
+    
     return -1;
 };
