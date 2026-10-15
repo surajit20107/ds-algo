@@ -21,6 +21,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/surajit20107/ds-algo/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/surajit20107/ds-algo/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/surajit20107/ds-algo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
