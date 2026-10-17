@@ -36,6 +36,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/surajit20107/ds-algo/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/surajit20107/ds-algo/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/surajit20107/ds-algo/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/surajit20107/ds-algo/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/surajit20107/ds-algo/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajit20107/ds-algo/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -166,6 +167,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0560-subarray-sum-equals-k](https://github.com/surajit20107/ds-algo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/surajit20107/ds-algo/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/surajit20107/ds-algo/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/surajit20107/ds-algo/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
