@@ -21,6 +21,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0169-majority-element](https://github.com/surajit20107/ds-algo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/surajit20107/ds-algo/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/surajit20107/ds-algo/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/surajit20107/ds-algo/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
@@ -50,6 +51,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0142-linked-list-cycle-ii](https://github.com/surajit20107/ds-algo/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/surajit20107/ds-algo/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/surajit20107/ds-algo/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/surajit20107/ds-algo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surajit20107/ds-algo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/surajit20107/ds-algo/tree/master/0383-ransom-note) |
@@ -113,6 +115,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0056-merge-intervals](https://github.com/surajit20107/ds-algo/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/surajit20107/ds-algo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/surajit20107/ds-algo/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/surajit20107/ds-algo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surajit20107/ds-algo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0977-squares-of-a-sorted-array) |
