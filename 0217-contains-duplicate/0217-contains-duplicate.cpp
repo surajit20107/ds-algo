@@ -4,6 +4,10 @@ public:
         set<int> s;
         s.insert(nums.begin(), nums.end());
         
-        return s.size() != nums.size();
+        if (s.size() == nums.size()) {
+            return false;
+        } else {
+            return true;
+        }
     }
 };
