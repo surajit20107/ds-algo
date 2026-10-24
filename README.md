@@ -11,6 +11,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0014-longest-common-prefix](https://github.com/surajit20107/ds-algo/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/surajit20107/ds-algo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/surajit20107/ds-algo/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/surajit20107/ds-algo/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/surajit20107/ds-algo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/surajit20107/ds-algo/tree/master/0057-insert-interval) |
@@ -96,6 +97,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | ------- |
 | [0015-3sum](https://github.com/surajit20107/ds-algo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/surajit20107/ds-algo/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/surajit20107/ds-algo/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/surajit20107/ds-algo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surajit20107/ds-algo/tree/master/0142-linked-list-cycle-ii) |
