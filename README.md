@@ -21,6 +21,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0152-maximum-product-subarray](https://github.com/surajit20107/ds-algo/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/surajit20107/ds-algo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/surajit20107/ds-algo/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/surajit20107/ds-algo/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/surajit20107/ds-algo/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/surajit20107/ds-algo/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0002-add-two-numbers](https://github.com/surajit20107/ds-algo/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/surajit20107/ds-algo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/surajit20107/ds-algo/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/surajit20107/ds-algo/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/surajit20107/ds-algo/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/surajit20107/ds-algo/tree/master/0633-sum-of-square-numbers) |
@@ -204,6 +206,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/surajit20107/ds-algo/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajit20107/ds-algo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surajit20107/ds-algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
@@ -244,4 +247,20 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/surajit20107/ds-algo/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/surajit20107/ds-algo/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/surajit20107/ds-algo/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/surajit20107/ds-algo/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/surajit20107/ds-algo/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
