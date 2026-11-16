@@ -12,6 +12,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0015-3sum](https://github.com/surajit20107/ds-algo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/surajit20107/ds-algo/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajit20107/ds-algo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/surajit20107/ds-algo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/surajit20107/ds-algo/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/surajit20107/ds-algo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/surajit20107/ds-algo/tree/master/0057-insert-interval) |
@@ -49,6 +50,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | ------- |
 | [0001-two-sum](https://github.com/surajit20107/ds-algo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajit20107/ds-algo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/surajit20107/ds-algo/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/surajit20107/ds-algo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surajit20107/ds-algo/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/surajit20107/ds-algo/tree/master/0169-majority-element) |
@@ -116,6 +118,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | ------- |
 | [0015-3sum](https://github.com/surajit20107/ds-algo/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/surajit20107/ds-algo/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/surajit20107/ds-algo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/surajit20107/ds-algo/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/surajit20107/ds-algo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/surajit20107/ds-algo/tree/master/0169-majority-element) |
@@ -129,6 +132,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajit20107/ds-algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/surajit20107/ds-algo/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/surajit20107/ds-algo/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/surajit20107/ds-algo/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/surajit20107/ds-algo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surajit20107/ds-algo/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/surajit20107/ds-algo/tree/master/0383-ransom-note) |
