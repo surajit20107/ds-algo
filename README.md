@@ -27,6 +27,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0217-contains-duplicate](https://github.com/surajit20107/ds-algo/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/surajit20107/ds-algo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/surajit20107/ds-algo/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/surajit20107/ds-algo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/surajit20107/ds-algo/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/surajit20107/ds-algo/tree/master/0503-next-greater-element-ii) |
@@ -107,6 +108,7 @@ LeetCode Profile: [surajit_07](https://leetcode.com/u/surajit_07)
 | [0142-linked-list-cycle-ii](https://github.com/surajit20107/ds-algo/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/surajit20107/ds-algo/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/surajit20107/ds-algo/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/surajit20107/ds-algo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/surajit20107/ds-algo/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/surajit20107/ds-algo/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/surajit20107/ds-algo/tree/master/0633-sum-of-square-numbers) |
